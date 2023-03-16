@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @author aluno
  */
-public class Java_Git {
+public class Ex01 {
 
   public static void main(String[] args) {
         // TODO code application logic here
